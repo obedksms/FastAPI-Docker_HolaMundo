@@ -12,14 +12,7 @@ Crear un programa holaMundo con FasrAPI y desplegarlo con Docker
 - ✅ GitHub
 
 
----
-/app
-├── Dockerfile
-├── main.py
-├── requirements.txt
-└── README.md
 
----
 
 ## Instalación durante creacion de proyecto
 
