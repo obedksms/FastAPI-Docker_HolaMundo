@@ -1,0 +1,7 @@
+
+.env       # Archivos con variables de entorno (credenciales)
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
